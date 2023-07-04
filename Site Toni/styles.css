@@ -33,7 +33,7 @@
   }
   
   .hero {
-	background: #FF3998;
+	background: linear-gradient(180deg, #FF007A 0%, #FF92C6 100%);
   }
   
   .hero-container {
