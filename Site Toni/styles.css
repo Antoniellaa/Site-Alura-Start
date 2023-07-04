@@ -95,3 +95,17 @@
 	  grid-template-columns: 1fr;
 	}
   }
+
+
+
+
+
+
+
+  .footer {
+	height: 60px;
+	background: #000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
